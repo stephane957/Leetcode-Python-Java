@@ -1,5 +1,9 @@
-# Leetcode-Python-Java
+# LeetCode Solutions: A Dual-Language Approach
 
+Python is actually pretty fast, and Java is even faster. This repository documents my journey of solving LeetCode problems in both languages, leveraging the strengths of each.
+
+*   **Python** for its conciseness and speed of development.
+*   **Java** for its performance and to keep its syntax fresh in my mind.
 
 Solutions are organized by problem category (following a list like NeetCode 150) and then by problem name. Each problem has two files: `[problem-name].py` and `[problem-name].java`.
 

@@ -5,7 +5,7 @@ Python is actually pretty fast, and Java is even faster. This repository documen
 *   **Python** for its conciseness and speed of development.
 *   **Java** for its performance and to keep its syntax fresh in my mind.
 
-Solutions are organized by problem category (following a the **NeetCode 150** list) and then by problem name. I seperate the problems using the Neetcode roadmap. Each problem has two files: `[problem-name].py` and `[problem-name].java`.
+Solutions are organized by problem category following the **NeetCode 150** list and then by problem name. I seperate the problems using the Neetcode roadmap. Each problem has two files: `[problem-name].py` and `[problem-name].java`.
 
 ## Why Two Languages?
 
